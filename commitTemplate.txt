@@ -39,7 +39,7 @@
 #_devops: When commit is related to devops jobs (Dependecy Management,|
 #         CI/CD, Containerizing, Kubernaties,  ...)                   |
 #                                                                     |
-#_repository: Used when creating new directories or moving files.     |
+#_repo: Used when creating new directories or moving files.           |
 #                                                                     |
 #_perf: Improves algorithms performance or general execution time.    |
 #                                                                     |
